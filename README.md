@@ -1,7 +1,6 @@
 # Road-Map-Project-42
-My Road Project at 42 in order to get lvl 21
 
-- Artificial Intelligence (70 000 XP):
+- #Artificial Intelligence (70 000 XP):
   - linear_reg (+bonus):              5 250 XP  =  5 250 Total         Status: Done
   - DSLR (+bonus):                    6 960 XP  = 12 210 Total         Status: Done
   - Gomoku (+bonus):                  31 500 XP = 43 710 Total         Status: In Progress
