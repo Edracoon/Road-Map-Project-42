@@ -12,7 +12,7 @@ Artificial Intelligence (70 000 XP):
   - Expert System (no need bonus)  9 450 XP  = 71 360 Total         Status: -
   - Multilayer Perceptron          9 450 XP  = 71 360 Total         Status: -
   
-Web - Database (50 000 XP):
-    - Red Tetris (+bonus):         19 687 XP = 19 687 Total         Status: Done
-    - Matcha (+bonus):             11 812 XP = 31 499 Total         Status: In Progress
-    - Hypertube (+bonus):          19 687 XP = 51 186 Total         Status: -
+Web / Database (50 000 XP):
+  - Red Tetris (+bonus):         19 687 XP = 19 687 Total         Status: Done
+  - Matcha (+bonus):             11 812 XP = 31 499 Total         Status: In Progress
+  - Hypertube (+bonus):          19 687 XP = 51 186 Total         Status: -
