@@ -3,9 +3,9 @@ My Road Project at 42 in order to get lvl 21
 
 Artificial Intelligence (70 000 XP):
   - linear_reg (+bonus):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 250 XP  =  5 250 Total         Status: Done
-  - DSLR (+bonus):                 6 960 XP  = 12 210 Total         Status: Done
-  - Gomoku (+bonus):               31 500 XP = 43 710 Total         Status: In Progress
-  - Krpsim:                        9 450 XP  = 53 160 Total         Status: Done (need to push)
+  - DSLR (+bonus):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6 960 XP  = 12 210 Total         Status: Done
+  - Gomoku (+bonus):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;31 500 XP = 43 710 Total         Status: In Progress
+  - Krpsim:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9 450 XP  = 53 160 Total         Status: Done (need to push)
   - ready_set_bool (+bonus):       8 750 XP  = 61 910 Total         Status: -
  Last project I can choose between:
   - Matrix (mandatory bonus)       8 750 XP  = 70 660 Total         Status: -
