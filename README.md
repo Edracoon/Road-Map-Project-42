@@ -6,7 +6,7 @@
   - Gomoku (+bonus):                  31 500 XP = 43 710 Total         Status: In Progress
   - Krpsim:                           9 450 XP  = 53 160 Total         Status: Done (need to push)
   - ready_set_bool (+bonus):          8 750 XP  = 61 910 Total         Status: -
-  Last project I can choose between:
+  #### Last project I can choose between:
   - Matrix (mandatory bonus)          8 750 XP  = 70 660 Total         Status: -
   - Expert System (no need bonus)     9 450 XP  = 71 360 Total         Status: -
   - Multilayer Perceptron             9 450 XP  = 71 360 Total         Status: -
