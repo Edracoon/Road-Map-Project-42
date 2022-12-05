@@ -30,4 +30,8 @@
   - Hypertube (+bonus):
     - 19 687 XP = 51 186 Total -> Status: -
 
+- ### Suite (1 Project):
+  - Scop + HumanGL ?
+
+
 
