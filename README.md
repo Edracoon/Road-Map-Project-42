@@ -1,10 +1,8 @@
 # Road-Map-Project-42
 
+![image](https://user-images.githubusercontent.com/77042040/205524434-a5404db8-a016-473e-a70e-59cffc01bf39.png)
 
-
-
-
-# ------------------------------RAW---------------------------------------
+# ------------------------------RAW-----------------------------------
 - ### Artificial Intelligence (70 000 XP):
   - linear_reg (+bonus):              5 250 XP  =  5 250 Total         Status: Done
   - DSLR (+bonus):                    6 960 XP  = 12 210 Total         Status: Done
